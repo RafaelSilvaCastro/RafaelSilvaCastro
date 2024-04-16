@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Rafael da Silva Castro
+- 👨🏻‍💻 I'm I'm a programming technician
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning  Python at UMC - Mogi das Cruzes and I'm learning JavaScript and jQuery on my own
 - 💞️ I am currently a programming intern
