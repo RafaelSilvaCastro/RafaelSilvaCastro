@@ -2,11 +2,11 @@
 <!--<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/RafaelSilvaCastro/RafaelSilvaCastro/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
 &nbsp;&nbsp;&nbsp;-->
 
+- 👋 Hi, My name is Rafael Castro
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Python and JavaScript at UMC - Mogi das Cruzes
+- 💼 I’m looking to find a back-end job
 
-👋 Hi, My name is Rafael Castro
-👀 I’m interested in backend development
-🌱 I’m currently learning Python and JavaScript at UMC - Mogi das Cruzes
-💼 I’m looking to find a back-end job
 
 <<div align="center">
   <a href="https://github.com/RafaelSilvaCastro"></a>
