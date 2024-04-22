@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;-->
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> I am a systems development technician and am studying the first semester of systems analysis and development. I am an intern at a company that provides programming services. I'm looking for knowledge in this area, especially in the back end area, which I identify with most.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelSilvaCastro&theme=radical&mode=weekly" />
