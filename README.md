@@ -3,7 +3,10 @@
 &nbsp;&nbsp;&nbsp;-->
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I am a systems development technician and am studying the first semester of systems analysis and development. I am an intern at a company that provides programming services. I'm looking for knowledge in this area, especially in the back end area, which I identify with most.</p>&nbsp;
+👋 Hi, My name is Rafael Castro
+👀 I’m interested in backend development
+🌱 I’m currently learning Python and JavaScript at UMC - Mogi das Cruzes
+💼 I’m looking to find a back-end job
 
 <<div align="center">
   <a href="https://github.com/RafaelSilvaCastro"></a>
