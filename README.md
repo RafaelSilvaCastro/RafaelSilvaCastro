@@ -5,10 +5,9 @@
 - 👋 Hi, My name is Rafael Castro
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Python and JavaScript at UMC - Mogi das Cruzes
-- 💼 I’m looking to find a back-end job
 
 
-<<div align="center">
+<div align="center">
   <a href="https://github.com/RafaelSilvaCastro"></a>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelSilvaCastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSilvaCastro&layout=compact&langs_count=7&theme=dark"/>   
