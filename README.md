@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="banner.jpg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="banner1.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=skyblue&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Rafael+Castro;I'm+19+years+old;I+study+at+UMC;I'm+a+Software+Developer;;Welcome%3A)](https://git.io/typing-svg)
